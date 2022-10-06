@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">To codando em</h2>
+<h2 align="left">Stack atual</h2>
 
 ###
 
