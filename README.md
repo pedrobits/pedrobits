@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻Estou tentando codar desde 2020<br>📚 Atualmente to vendo umas coisinhas de Next.JS<br>🎯 Praticando e estudando para desenvolver todas minhas ideias malucas.</p>
+<p align="left">💻Estou tentando codar desde 2020<br>📚 Aprendendo mais sobre Electron, aliás muii bueno.<br>🎯 Praticando e estudando para desenvolver todas minhas ideias malucas.</p>
 
 ###
 
