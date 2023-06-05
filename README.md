@@ -1,37 +1,27 @@
-<h1 align="left">Opaaa👋 coméqueceta??</h1>
-
-###
-
-<p align="left">Pedro Lima aqui, Designer Gráfico e Desenvolvedor Back-end com umas pitadas no Front. 🇧🇷</p>
-
-###
-
+<h1 align="left">Olá! Como vai? 👋</h1>
+<p align="left">Meu nome é Pedro Lima e sou um desenvolvedor full stack com foco principal em back-end, mas também tenho habilidades no front-end. 🇧🇷</p>
 <h2 align="left">Sobre mim</h2>
-
-###
-
-<p align="left">💻Estou tentando codar desde 2020<br>📚 Aprendendo mais sobre Electron, aliás muii bueno.<br>🎯 Praticando e estudando para desenvolver todas minhas ideias malucas.</p>
-
-###
+<p align="left">🔹 Estou envolvido no mundo da programação desde 2020<br>🔹 Atualmente estou aprimorando meus conhecimentos em MSSQL, meu primeiro DB sql.<br>🔹 Meu objetivo é me desenvolver como desenvolvedor e me tornar um tech lead de respeito.</p>
 
 <h2 align="left">Stack atual</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="52" alt="tailwindcss logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" width="52" alt="photoshop logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" width="52" alt="aftereffects logo"  />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" width="52"  />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" width="52" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" width="52" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" width="52" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" width="52" />
+          
+          
 </div>
-
-###
+<br>
+<p>Saiba o que estou ouvindo: </p>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22zyikjrk7mrwylu4ahoz2hwq&unique={true|1|on|yes})
 
