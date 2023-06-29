@@ -1,5 +1,5 @@
 <h1 align="left">Olá! Como vai? 👋</h1>
-<p align="left">Meu nome é Pedro Lima e sou um desenvolvedor Full Stack com foco principal em back-end, mas pincelo no front-end tbm. 🇧🇷</p>
+<p align="left">Meu nome é Pedro Lima e sou um desenvolvedor FullStack com foco principal em back-end, mas pincelo no front-end tbm. 🇧🇷</p>
 <h2 align="left">Sobre mim</h2>
 <p align="left">🔹 Estou envolvido no mundo da programação desde 2020<br>🔹 Atualmente estou aprimorando meus conhecimentos em MSSQL, meu primeiro DB sql.<br>🔹 Meu objetivo é me desenvolver como desenvolvedor e me tornar um tech lead de respeito.</p>
 
