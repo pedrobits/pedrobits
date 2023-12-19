@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Pedro Lima! 👋</h1>
 
 <p align="center">
-  Sou um Desenvolvedor FullStack apaixonado por tecnologia e inovação, com um foco principal em back-end, mas também arrisco no front-end. 🇧🇷
+  Sou um Desenvolvedor apaixonado por tecnologia e inovação, com um foco principal em back-end, mas também arrisco no front-end. 🇧🇷
 </p>
 
 <h2 align="center">Sobre Mim</h2>
