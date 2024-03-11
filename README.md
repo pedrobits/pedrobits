@@ -1,4 +1,6 @@
 <h1 align="center">Olá, eu sou Pedro Lima! 👋</h1>
+<h3 align="center"><a href="https://pedrobits.github.io/pleasurePedroLima/">Meu Site/Portfólio</a></h3>
+
 
 <p align="center">
   Sou um Desenvolvedor apaixonado por tecnologia e inovação, com um foco principal em back-end, mas também arrisco no front-end. 🇧🇷
