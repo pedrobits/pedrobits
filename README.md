@@ -1,17 +1,15 @@
-<h1 align="center">Olá, eu sou Pedro Lima! 👋</h1>
-<h3 align="center"><a href="https://pedrobits.github.io/pleasurePedroLima/">Meu Site/Portfólio</a></h3>
-
+<h1 align="center">Olá, eu sou Pedro Lima! 🇧🇷</h1>
 
 <p align="center">
-  Sou um Desenvolvedor apaixonado por tecnologia e inovação, com um foco principal em back-end, mas também arrisco no front-end. 🇧🇷
+  Atualmente Sou um Desenvolvedor focado em Javascript Fullstack. 
 </p>
 
 <h2 align="center">Sobre Mim</h2>
 
 <p>
-  💼 Tenho uma sólida experiência na Stack MERN<br>
+  💼 Tenho uma sólida experiência na Stack MERN (MongoDB, ExpressJS, ReactJS e NodeJS)<br>
   🛠️ Trabalhei em diversos projetos, desde o conceito até a implementação.<br>
-  🚀 Estou sempre buscando novas maneiras de melhorar e otimizar o desenvolvimento de software.
+  🚀 Atualmente estudando Typescript.
 </p>
 
 <h2 align="center">Stack Atual</h2>
