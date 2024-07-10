@@ -21,7 +21,7 @@
 
 ###
 
-<h4 align="left">🚀 Trabalho com JavaScript há mais de 3 anos, com foco em desenvolvimento full-stack.<br>💼 Tenho experiência em projetos de automação bancária e otimização de processos operacionais.<br>💻 Estou constantemente buscando soluções eficientes e inovadoras para os desafios do desenvolvimento de software.<br>🎶 Tenho uma paixão pela música e atuo como produtor musical há mais de 5 anos.</h4>
+<h4 align="left">🚀 Trabalho com JavaScript há mais de 3 anos, com foco em desenvolvimento full-stack.<br>💼 Tenho experiência em projetos de automação e RPA utilizando Puppeteer. <br>💻 Estudando constantemente pra aprender coisas novas. <br>🎶 Tenho uma paixão pela música e atuo como produtor musical há mais de 5 anos.</h4>
 
 ###
 
