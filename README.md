@@ -1,6 +1,8 @@
-###
+Here's the translated text into English:
 
-<h1 align="center">Olá, meu nome é Pedro Lima.</h1>
+---
+
+<h1 align="center">Hello, my name is Pedro Lima.</h1>
 
 ###
 
@@ -21,15 +23,15 @@
 
 ###
 
-<h4 align="left">🚀 Trabalho com JavaScript há mais de 3 anos, com foco em desenvolvimento full-stack.<br>💼 Tenho experiência em projetos de automação e RPA utilizando Puppeteer. <br>💻 Estudando constantemente pra aprender coisas novas. <br>🎶 Tenho uma paixão pela música e atuo como produtor musical há mais de 5 anos.</h4>
+<h4 align="left">🚀 I have been working with JavaScript for over 3 years, focusing on full-stack development.<br>💼 I have experience in automation and RPA projects using Puppeteer.<br>💻 Constantly studying to learn new things.<br>🎶 I have a passion for music and have been working as a music producer for over 5 years.</h4>
 
 ###
 
-<p align="left">Desenvolvedor de Araras, SP - Brasil<br><br>- 🔭 Atualmente trabalho na AgilleCred, como Desenvolvedor fullstack.<br>- 📚 Estou estudando Typescript e RabbitMQ, para aprimorar alguns projetos e processos.</p>
+<p align="left">Developer from SP - Brazil<br><br>- 🔭 I currently work at AgilleCred as a full-stack developer.<br>- 📚 I am studying TypeScript and RabbitMQ to enhance some projects and processes.</p>
 
 ###
 
-<h3 align="left">🛠 Minha Stack</h3>
+<h3 align="left">🛠 My Stack</h3>
 
 ###
 
