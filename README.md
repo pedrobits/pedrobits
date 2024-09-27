@@ -1,7 +1,3 @@
-Here's the translated text into English:
-
----
-
 <h1 align="center">Hello, my name is Pedro Lima.</h1>
 
 ###
