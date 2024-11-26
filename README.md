@@ -1,63 +1,30 @@
-<h1 align="center">Hello, my name is Pedro Lima.</h1>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-###
+<p align="left"> 
+  Olá, eu sou <b>Pedro Lima</b>, desenvolvedor Fullstack com 4 anos de experiência, especializado em tecnologias como JavaScript, TypeScript, Python, Node.js, Express, React e MongoDB. Atualmente, trabalho na Ágille, onde estou focado na integração de APIs bancárias e no desenvolvimento de robôs.
+</p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/pedropdelima/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UCDfCEmXGNt7VH8olqkVlWdg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://www.behance.net/pedrolimaa" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo"  />
-  </a>
-  <a href="https://www.instagram.com/onlylimaa/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-</div>
+<p align="left">
+  🦄 Linguagens: JavaScript, TypeScript, Python, HTML e CSS.
+</p>
 
-###
+<p align="left">
+  💼 Ferramentas: Node.js, Express, NestJS, React, Redux, MongoDB, RabbitMQ, Redis, Git, Docker.
+</p>
 
-<h4 align="left">🚀 I have been working with JavaScript for over 3 years, focusing on full-stack development.<br>💼 I have experience in automation and RPA projects using Puppeteer.<br>💻 Constantly studying to learn new things.<br>🎶 I have a passion for music and have been working as a music producer for over 5 years.</h4>
+<p align="left">
+  💌 Fique à vontade para entrar em contato comigo! ⤵️
+</p>
 
-###
+<p align="left">
+  <a href="mailto:pedroksk2@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=pedroksk2@gmail.com" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/pedropdelima/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedropdelima/" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/onlylimaa" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/onlylimaa" alt="Instagram"/></a>
+</p>
 
-<p align="left">Developer from SP - Brazil<br><br>- 🔭 I currently work at AgilleCred as a full-stack developer.<br>- 📚 I am studying TypeScript and RabbitMQ to enhance some projects and processes.</p>
-
-###
-
-<h3 align="left">🛠 My Stack</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="40" alt="adobepremierepro logo"  />
-</div>
 
 ###
 
@@ -73,4 +40,4 @@
   </a>
 </div>
 
-###
+---
