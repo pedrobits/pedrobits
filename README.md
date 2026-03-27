@@ -1,11 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá, eu sou <b>Pedro Lima</b>, desenvolvedor Fullstack com 4 anos de experiência, especializado em tecnologias como JavaScript, TypeScript, Python, Node.js, Express, React e MongoDB. Atualmente, trabalho na Ágille, onde estou focado na integração de APIs bancárias e no desenvolvimento de robôs.
+  Olá, eu sou <b>Pedro Lima</b>, desenvolvedor Fullstack que já passou por muita dor de cabeça rs.
 </p>
 
 <p align="left">
-  🦄 Linguagens: JavaScript, TypeScript, Python, HTML e CSS.
+  🦄 Linguagens: JavaScript, TypeScript, Python.
 </p>
 
 <p align="left">
