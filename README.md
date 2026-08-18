@@ -28,16 +28,4 @@
 
 ###
 
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pedrobits&theme=gotham&hide_border=true" alt="GitHub Streak" /></a>
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/22zyikjrk7mrwylu4ahoz2hwq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22zyikjrk7mrwylu4ahoz2hwq&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
 ---
